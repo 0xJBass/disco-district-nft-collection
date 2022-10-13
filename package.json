@@ -1,0 +1,8 @@
+{
+	"name": "disco-district-nft-collection",
+	"version": "1.0.0",
+	"author": "Justin Bassey",
+	"dependencies": {
+		"dotenv": "^16.0.3"
+	}
+}
